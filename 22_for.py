@@ -29,8 +29,6 @@ for key, value in product.items():
     print(key, ' => ', value)
 
 #Lista con diccionario
-:wq:
-
 for person in people:
     print(person)
     print('name --> ', person['name'])
