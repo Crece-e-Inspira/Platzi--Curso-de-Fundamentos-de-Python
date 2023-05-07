@@ -1,3 +1,2 @@
-# Platzi---Curso-de-Fundamentos-de-Python
-ESTADO DEL REPOSITORIO FINALIZADO!!!
+# Platzi---Curso-de-Fundamentos-de-Python(FINALIZADO)
 Aprendiendo Python desde cero
